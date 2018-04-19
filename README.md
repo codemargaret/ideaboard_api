@@ -23,9 +23,7 @@ _To clone locally, run the following commands in Terminal:_
 8. `$ rails s` _to start the server._
 
 ## Support and contact details
-_If you have any updates, questions, or suggestions please contact [Margaret] or make a contribution._
-
-[Margaret]: mailto:codeberry1@gmail.com
+_If you have any updates, questions, or suggestions please contact [Margaret](codeberry1@gmail.com) or make a contribution._
 
 ## Technologies Used
 * _Ruby-on-Rails_
@@ -34,4 +32,4 @@ _If you have any updates, questions, or suggestions please contact [Margaret] or
 ### License
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_Margaret Berry_**
+Copyright (c) 2018 **_Margaret Berry_**
