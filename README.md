@@ -1,24 +1,37 @@
-# README
+# _Ideaboard API_
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### _A single page app to store and show ideas, 04.19.2018_
 
-Things you may want to cover:
+#### By _**Margaret Berry**_
 
-* Ruby version
+## Project Goals
+_My goal was to create a Rails API that would communicate with a separate React front end._
 
-* System dependencies
+## Description
+* _This app was created by following [this tutorial](https://www.sitepoint.com/react-rails-5-1/)_
 
-* Configuration
+## Setup/Installation Requirements
+_To clone locally, run the following commands in Terminal:_
 
-* Database creation
+1. `$ git clone` [this repository](https://github.com/codemargaret/ideaboard_api.git)
+2. `$ cd ideaboard_api`
+3. `$ bundle install`
+4. `$ rails db:create`
+5. `$ rails db:migrate`
+6. `$ rails db:test:prepare`
+7. `$ rails db:seed`
+8. `$ rails s` _to start the server._
 
-* Database initialization
+## Support and contact details
+_If you have any updates, questions, or suggestions please contact [Margaret] or make a contribution._
 
-* How to run the test suite
+[Margaret]: mailto:codeberry1@gmail.com
 
-* Services (job queues, cache servers, search engines, etc.)
+## Technologies Used
+* _Ruby-on-Rails_
+* _ActiveRecord_
 
-* Deployment instructions
+### License
+*This software is licensed under the MIT license.*
 
-* ...
+Copyright (c) 2017 **_Margaret Berry_**
